@@ -24,6 +24,6 @@
 
    Replace new name 'abc' and two digits that increase.
 
--r1, r3 : Same rules, (-r1 : Ten+ will not added 0 at left), (-r3 is Max limit)
+-r1, r3 : Same rules, (-r1 : Ten+ will not added 0 at left), (-r3 : Max limit)
 
 (Warning : v3.0 few unstable if duplicate name, v2.0 was more stable)
