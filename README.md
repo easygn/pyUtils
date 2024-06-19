@@ -12,7 +12,7 @@
 
   ---
 
-### Multiple Renamer
+### multiFile(Batch) Renamer
 
  ![BtR](/images/BR.png)
 
