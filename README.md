@@ -38,9 +38,9 @@
 
 * Use when using SBCs like Raspi or Excel macro can not be used
 
-* 1st num = Size of keyword. Default 12, minLength 8.
+ - 1st num = Size of keyword. Default 12, minLength 8.
 
-* 2nd num = Output repeated values lessEqual than the number. Def 3, min 1
+ - 2nd num = Output repeated values lessEqual than the number. Def 3, min 1
 
 
 
